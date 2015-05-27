@@ -1,5 +1,5 @@
-Learning_git
-============
+Enhancing features supported by SPARSE static analyzer using SMATCH wrapper
+=========================================================================================================
 I added one patch and one supporting header file for SMATCH ( wrapper tool for SPARSE static analyser).
 
 SMATCH added many functionality(memory leaks,invalid function parameters,invalid pointer usage) for existing SPARSE features.
