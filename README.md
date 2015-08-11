@@ -1,6 +1,6 @@
 Enhancing features supported by SPARSE static analyzer using SMATCH wrapper
 =========================================================================================================
-Added Detection after memory leak functionality for SMATCH ( wrapper tool for SPARSE static analyser).
+Added Memory leak detection functionality for SMATCH ( wrapper tool for SPARSE static analyser).
 
 SMATCH provides many functionality(like memory leaks,invalid function parameters,invalid pointer usage) on top of existing features of SPARSE static analyzer.
 
